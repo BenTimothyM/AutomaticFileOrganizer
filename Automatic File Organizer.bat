@@ -1,6 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 title File Organizer by Ben Timothy
+cd /d "%~dp0"
 
 echo ===================================================
 echo             AUTOMATIC FILE ORGANIZER
