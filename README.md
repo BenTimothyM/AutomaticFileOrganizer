@@ -26,9 +26,9 @@ A lightweight, efficient, and automated command-line utility written in Windows 
 
 To deploy and run the optimizer on your local machine, follow these steps:
 
-1. **Download the Script:** Download the `Auto-Organizer.bat` file from this repository.
+1. **Download the Script:** Download the `Automatic File Organizer.bat` file from this repository.
 2. **Placement:** Move the `.bat` file into the specific folder you want to organize (e.g., your Windows `Downloads` folder or a cluttered Desktop folder).
-3. **Execution (Critical Step):** - Right-click on `Auto-Organizer.bat`.
+3. **Execution (Critical Step):** - Right-click on `Automatic File Organizer.bat`.
    - Select **"Run as administrator"** from the context menu.
 4. **Completion:** Monitor the automated process via the console log. Once finished, press any key to close the window.
 
